@@ -1,0 +1,14 @@
+{
+    "name": "Calculator",
+    "short_name": "Calculator",
+    "start_url": "https://jessekeeper.github.io/calc/",
+    "background_color": "#6dcdb1",
+    "theme_color": "#009578",
+    "display": "standalone",
+    "icons": [
+        {
+        "src": "images/calc.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    }    
+}
